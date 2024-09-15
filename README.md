@@ -28,4 +28,7 @@ Choose Your own build
 Finish & pay (Just a prototype)
 ![image](https://github.com/user-attachments/assets/bed1a003-7ec4-4856-97cd-8db4fa64c957)
 
+Chat fucntions, you createe a chat and an admin can open it from their end
+![image](https://github.com/user-attachments/assets/748c6b4f-aaa0-4cba-9af0-ff9cdb36d0ba)
+
 
