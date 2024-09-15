@@ -1,0 +1,12 @@
+.bubble {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 1rem;
+    border: 2px solid rgb(39, 121, 214);
+    /* background: radial-gradient(#8f8 0%, #0000 40%); */
+}
+
+
+.bubbleActive {
+    border-color: rgb(39, 214, 54);
+}
